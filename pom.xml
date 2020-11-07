@@ -14,7 +14,7 @@
 
 	<name>GlobalMentor Parent</name>
 	<description>GlobalMentor parent POM.</description>
-	<url>http://www.globalmentor.com/software/</url>
+	<url>https://www.globalmentor.com/software/</url>
 
 	<scm>
 		<connection>scm:git:https://bitbucket.org/globalmentor/globalmentor-parent.git</connection>
